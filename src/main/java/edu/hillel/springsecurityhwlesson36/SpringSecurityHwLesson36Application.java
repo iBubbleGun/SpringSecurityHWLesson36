@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringSecurityHwLesson36Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringSecurityHwLesson36Application.class, args);
-    }
 
+        SpringApplication.run(SpringSecurityHwLesson36Application.class, args);
+        // password for all users = 1234
+    }
 }
